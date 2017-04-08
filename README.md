@@ -1,23 +1,24 @@
 ## Sunny Sun 
 ### Creating a better tomorrow!
 
-Project Management Professional. All the aspects in the life are related to projects. Sometimes, it could be really small project like personnel trip. All are planned by self, so self is the trip project in charge. Sometimes it could be a project like President manage a country, so the President is the country in charge. So the project management is playing increasely important role. Project managenent the three triple bottom line including Time, Scope and Quality.
+Project Management Professional. All the aspects in life are related to projects. Sometimes it could be a small project like a personnel trip; all are planned by yourself, so you are in charge. Sometimes it could be a President managing a country, hence the project management is playing increasely important role. Project managenent has three triple bottom line principles including Time, Scope and Quality...
 
 ### Sales
-Sales is the head of the dragon, normally the other department including the manufacturing capacity plan, procurement plan, and quaity control plan follow the sales plan. The 
+Sales is the head of the company. Other departments within the company; including manufacturing, procurement, and quality control follow Sales....
 
-### Marketing. 
-Marketing reflect the strategy and furture development direction of the company. There are 7Ps strategy in the marketing and they are price, place ......
+### Marketing
+Marketing reflects the strategy and future development direction of the company. There are 7Ps in the marketing strategy and they are price, place ......
 
-### Re-energize. 
-There are lots of ways to recharge. Some people recharge through the running, Yoga, Dance, playing golf, reading or even a trip. I found all these are interesting. For the example, the Tesco introduce the self check out service to reduce the quene time and also to incresase the salresting methods. Recently, i travalled to UK. Through the trip, i releazlie the importance of effectiveness and efficiency.
-Healthy status inlcuding the metallly and physically health.
-The Beauty of the nature. The spring is here. The blossom, the colorful tulip, the new daffodils flower and the new tree leaves. As if they are speaking to us that the new year will be full of green and hope. Visited Hyder park recently, which make me feel the direct touch from the nature.
+### Re-energize 
+There are lots of ways to recharge. Some people recharge through the running, yoga, dance, playing golf, reading or even a trip. I found all these are interesting. Recently, I travelled to UK. Through the trip, I realise the importance of effectiveness and efficiency. For example, Tesco introduce the self check out service to reduce the queue time and also to increase the sales.
 
-### The Dynamic world. 
-The changing in the world Geo-political- economical power, the changing in the world new idieology and changing the technology. All in all, today's world if full of innovation, change and surprises. While visiting the UK national portait gallery , ...
+### Health, including mental and physical health
+The beauty of nature; Spring is here. The blossom, the colourful tulip, the new daffodils flowering and the new tree leaves. As if they are speaking to us that the new year will be full of green and hope. I visited Hyde park recently, which make me feel the direct touch of nature.
+
+### The Dynamic world 
+The changing in the world's Geo-political and economical power. The changing in ideology and changing technology. All in all, today's world if full of innovation, change and surprises. While visiting the UK national portait gallery , ...
 
 ### The stock market
 ![Wallstreet](/the-wolf.png)
 
-The social net working
+### Social networking
