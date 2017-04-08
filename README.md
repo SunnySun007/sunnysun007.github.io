@@ -16,5 +16,8 @@ The Beauty of the nature. The spring is here. The blossom, the colorful tulip, t
 
 ### The Dynamic world. 
 The changing in the world Geo-political- economical power, the changing in the world new idieology and changing the technology. All in all, today's world if full of innovation, change and surprises. While visiting the UK national portait gallery , ...
-The stock market
+
+### The stock market
+![Wallstreet](/the-wolf.png)
+
 The social net working
