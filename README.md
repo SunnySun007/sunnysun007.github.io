@@ -22,3 +22,12 @@ The changing in the world's Geo-political and economical power. The changing in 
 ![Wallstreet](/the-wolf.png)
 
 ### Social networking
+
+
+
+### Social
+
+You can find me on:
+
+* [Twitter](http://twitter.com/sunflower00783) - Occasional tweets
+* [Github](http://github.com/sunflower007) - Code for this site and other contributions
