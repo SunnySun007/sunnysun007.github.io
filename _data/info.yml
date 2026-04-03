@@ -1,0 +1,109 @@
+name: Sunny Conner
+email: sunnysunting@gmail.com
+phone: (617) 712-9433
+website: sunnysun007.github.io
+
+summary: Project manager with 10+ years of experience delivering complex, cross-functional projects across enterprise technology, healthcare, financial services, and manufacturing engineering environments. Proven track record managing full project lifecycles and delivering 15+ projects totaling \$60M+. Expertise in stakeholder alignment, risk management, and process optimization, with consistent success delivering projects on time and within budget in fast-paced, global environments.
+
+experience:
+- title: Client Partner 
+  firm: Broker Online Exchange 
+  location: Cambridge, MA 
+  date: 2024 - Present 
+  bullets:
+  - Manage client relationships and provide solution-based strategies to improve performance and customer satisfaction. 
+  - Act as primary point of contact for issue resolution, ensuring timely responses and retention of key accounts. 
+  - Collaborate with internal teams to align client needs with business solutions. 
+- title: Sr. Project Manager 
+  firm: Cognizant
+  location: Cambridge, MA 
+  date: 2022 - 2023 
+  bullets:
+  - Led multiple concurrent projects within a PMO supporting healthcare clients including BCBS and Dean Health. 
+  - Managed end-to-end delivery of technology implementations, including TriZetto (Facets, QNXT), improving billing and claims processes. 
+  - Established RACI matrices and ensured alignment across cross-functional teams. 
+  - Delivered consistent status reporting, risk tracking, and stakeholder communication at all levels. 
+- title: Project Consultant 
+  firm: Manulife / John Hancock 
+  location: Boston, MA 
+  date: 2022
+  bullets:
+  - Managed risk remediation projects focused on cryptographic standards across multiple technical workstreams. 
+  - Tracked project performance using Planview and Power BI dashboards; delivered executive-level updates (CEO and Steering Committee). 
+  - Coordinated cross-functional teams to ensure timely execution and risk mitigation. 
+  - Maintained project documentation and workflow systems including SharePoint. 
+- title: Project Director 
+  firm: Cansco 
+  location: Dubai, UAE 
+  date: 2018 - 2020 
+  bullets:
+  - Directed end-to-end engineering and manufacturing projects from design through deployment using ERP systems. 
+  - Defined project scope, developed schedules, allocated resources, and managed budgets. 
+  - Led cross-functional teams including engineering, sales, and products to deliver client solutions. 
+  - Managed key accounts, negotiated contracts, and ensured alignment with SOW and delivery expectations. 
+- title: Business Project Management 
+  firm: FTV Proclad 
+  location: Dubai, UAE 
+  date: 2010 - 2018 
+  bullets:
+  - Delivered global turnkey engineering projects across multiple regions (UAE, USA, Asia, EU). 
+  - Managed project plans, budgets, timelines, and vendor coordination for large-scale manufacturing initiatives. 
+  - Led project kickoff meetings, stakeholder presentations, and executive reporting. 
+  - Ensured quality delivery and escalated risks/issues to leadership when necessary. 
+    
+education:
+- year: 2017
+  degree: MBA with Distinction
+  institute: University Wollongong
+  # location: Dubai, UAE
+- year: 2008
+  degree: B.A. in Education and Psychology
+  institute: Jiangsu Normal University
+  # location: Xuzhou, China
+  
+certifications:
+- cert: Project Management Professional (PMP), Project Management Institute 
+  date: since 2013
+- cert: Certified ScrumMaster (CSM)
+  date: since 2022
+- cert: Microsoft IT Support Specialist Certificate
+  date: 2025 
+- cert: Project Risk Management Professional (RMP) Training
+  date: 2015 
+# - cert: Life Insurance License
+#   date: 2021 
+
+
+skills: 
+- category: Tools
+  items:
+  - Jira
+  - ServiceNow
+  - Smartsheet
+  - Planview
+  - Confluence
+  - Azure DevOps
+  - MS Project
+  - Power BI 
+- category: Methodologies
+  items:
+  - Agile
+  - Scrum
+  - Waterfall
+  - Hybrid 
+- category: Technical
+  items:
+  - ERP Systems
+  - PLM Processes
+  - Data Reporting and Dashboards 
+- category: Languages
+  items:
+  - English (Fluent)
+  - Mandarin (Native) 
+- category: Strengths
+  items:
+  - Communication
+  - stakeholder management
+  - multi-project coordination
+  - executive presentations 
+

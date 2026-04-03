@@ -1,0 +1,102 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage{titlesec}
+\usepackage[colorlinks=true]{hyperref}
+% \usepackage[hidelinks]{hyperref}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage[margin=0.4in]{geometry}
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\pagestyle{empty}
+\urlstyle{same}
+% \raggedbottom
+% \raggedright
+
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item
+\small{#1 } \vspace{-2pt}
+}
+
+\newcommand{\resumeHeading}[4]{
+    \begin{tabular*}{0.99\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+  \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[2]{
+  \item \small{ \textbf{#1}{: #2 \vspace{-6pt}} }}
+
+\newcommand{\skillsItem}[2]{
+\item \small{ \textbf{#1}{ #2 \vspace{-6pt}} }}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubheadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubheadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+\begin{center}
+{\LARGE\textbf{ {{ name | upcase }} }} \\[1pt]
+
+\href{mailto:{{email}}}{ {{email}} } {$\mid$} \href{https://{{website}}}{ {{website}}} {$\mid$} \href{tel:{{phone}}}{ {{phone}}} \\
+\end{center}
+
+{{ summary }}
+
+\section{Education}
+\resumeSubheadingListStart
+{% for w in education %}\resumeSubheading { {{w.institute}} }{ {{w.location}}}
+{ {{w.degree}}} { {{w.year}}}
+{% endfor %}
+\resumeSubheadingListEnd
+
+\section{Experience}
+\resumeSubheadingListStart
+{% for w in experience %}\resumeSubheading { {{w.firm}} }{ {{w.location}}}
+{ {{w.title}}} { {{w.date}}}
+\resumeItemListStart
+{% for bullet in w.bullets %}\resumeItem{ {{bullet}} }
+{% endfor %}
+\resumeItemListEnd
+{% endfor %}
+\resumeSubheadingListEnd
+
+\section{Certifications}
+\resumeSubheadingListStart
+{% for c in certifications %}\resumeSubSubheading { {{c.cert}} }{ {{c.date}} }
+{% endfor %}
+\resumeSubheadingListEnd
+
+\section{Skills}
+\resumeSubheadingListStart
+{% for group in skills %}\skillsItem{ {{group.category}}}{ {% for s in group.items %}{{s}}{% if forloop.last != true %}, {% endif %}{% endfor %} }
+{% endfor %}
+\resumeSubheadingListEnd
+
+\end{document}

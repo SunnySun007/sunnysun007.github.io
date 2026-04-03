@@ -1,0 +1,10 @@
+.jekyll-cache/
+_site/
+vendor
+.direnv
+*.aux
+*.log
+*.out
+*.pdf
+_resume.tex
+_data/info_html.json
