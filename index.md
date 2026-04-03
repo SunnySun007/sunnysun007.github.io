@@ -5,7 +5,7 @@ feature_text:
 
 ### Sunny Conner
 {: style="text-align: center;"}
-[{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/sunny-conner-743ba822/)
+[{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/sunny-conner-743ba822/) [{% include icon.html id="twitter" title="twitter" %}](http://twitter.com/sunflower00783)
 {: style="text-align: center; text-decoration: none;"}
 
 I am currently on the job market for Project Management roles. Recently I worked at [Cognizant](https://www.cognizant.com/) as Senior Project Manager on healthcare technology implementation projects. Prior that I worked at [John Hancock](https://www.johnhancock.com/) on the remediation of cryptographic technology projects.
