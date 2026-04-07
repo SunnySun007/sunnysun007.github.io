@@ -8,3 +8,4 @@ vendor
 *.pdf
 _resume.tex
 _data/info_html.json
+_data/info_latex.json

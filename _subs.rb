@@ -1,7 +1,7 @@
 require 'liquid'
-require 'yaml'
+require 'json'
 
-cv = YAML.load_file('_data/info.yml')
+dat = JSON.parse(File.read(ARGV[0]))
 
 template = Liquid::Template.parse($stdin.read)
-$stdout.write((template.render(cv)))
+$stdout.write((template.render(dat)))
