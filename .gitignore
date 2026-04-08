@@ -5,7 +5,11 @@ vendor
 *.aux
 *.log
 *.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
 *.pdf
 _resume.tex
 _data/info_html.json
 _data/info_latex.json
+
