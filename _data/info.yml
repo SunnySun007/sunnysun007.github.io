@@ -2,6 +2,7 @@ name: Sunny Conner
 email: sunnysunting@gmail.com
 phone: 617-712-9433
 website: sunnysun007.github.io
+location: Cambridge,MA
 
 summary: Project manager with 10+ years of experience delivering complex, cross-functional projects across enterprise technology, healthcare, financial services, and manufacturing engineering environments. Proven track record managing full project lifecycles and delivering 15+ projects totaling $60M+. Expertise in stakeholder alignment, risk management, and process optimization, with consistent success delivering projects on time and within budget in fast-paced, global environments.
 
@@ -11,10 +12,8 @@ experience:
   location: Cambridge, MA 
   date: 2024 - Present 
   bullets:
-  - Manage client relationships and provide solution-based strategies to improve performance and customer satisfaction. 
-  - Act as primary point of contact for issue resolution, ensuring timely responses and retention of key accounts. 
-  - Collaborate with internal teams to align client needs with business solutions. 
-- title: Sr. Project Manager 
+  - Develop new clients and manage client relationships.
+  - Act as primary point of contact for issue resolution, ensuring timely responses.
   firm: Cognizant
   location: Cambridge, MA 
   date: 2022 - 2023 
@@ -54,7 +53,7 @@ experience:
 education:
 - year: 2017
   degree: MBA with Distinction
-  institute: University Wollongong
+  institute: University of Wollongong
   # location: Dubai, UAE
 - year: 2008
   degree: B.A. in Education and Psychology
@@ -70,8 +69,8 @@ certifications:
   date: 2025 
 - cert: Project Risk Management Professional (RMP) Training
   date: 2015 
-# - cert: Life Insurance License
-#   date: 2021 
+- cert: Life Insurance License
+  date: 2021
 
 
 skills: 
@@ -85,6 +84,8 @@ skills:
   - Azure DevOps
   - MS Project
   - Power BI 
+  - AI Tools
+  - git
 - category: Methodologies
   items:
   - Agile
